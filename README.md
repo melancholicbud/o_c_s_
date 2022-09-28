@@ -1,2 +1,2 @@
 # o_c_s_
-website django cms
+This was a another Django CMS training where I learned how to make a website via Python.
